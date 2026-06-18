@@ -15,5 +15,5 @@ for (let i = 0; i < cadastroDeNumeros; i++){
     }
 }
 
-console.log(`Multiplos de 3: + ${multiplosDe3}`)
-console.log(`Outros numeros: + ${outrosNumeros}`)
+console.log(`Multiplos de 3: ${multiplosDe3}`)
+console.log(`Outros numeros: ${outrosNumeros}`)
